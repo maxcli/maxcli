@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Waterfront property
+![Image](https://github.com/user-attachments/assets/0f61c79b-b40e-4553-b5b1-99d92911606d)
 <!--
 **maxcli/maxcli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
